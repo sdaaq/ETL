@@ -1,6 +1,5 @@
 # ETL | DATA PIPELINE | AITRFLOW DATA PIPELINE
 # АРХИТЕКТУРА
-ТУТ БУДЕТ МОДЕЛЬ АРХИТЕКТУРЫ
 ![image](https://github.com/user-attachments/assets/83cef2ae-d577-4a50-8d3e-6f685a5dc78e)
 
 
@@ -21,7 +20,8 @@
 Clickhouse читает данные из файла csv.
 К кликхаусу подключаются внешние bi инструменты.
 
-# ТУТ БУДЕТ ETL из airflow
+# Airflow
+![image](https://github.com/user-attachments/assets/c3f3dbe5-9ba5-4571-b68b-30bb18f6ac57)
 
 # Мб  структура таблиц из кликхауса
 
