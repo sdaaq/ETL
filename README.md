@@ -11,16 +11,17 @@
 Данные поступают в спарк и там обогащаются.
 Спарк складывает данные в формат csv.
 
-Clickhouse читает данные из файла csv.
+Clickhouse считает данные из файла csv в таблицу.
+
 К кликхаусу подключаются внешние bi инструменты.
 
 # Airflow
 ![image](https://github.com/user-attachments/assets/7a6c201a-f5bc-45ab-a3a5-1cda1bdf5df4)
 
 
-# Мб  структура таблиц из кликхауса
+# Структура таблицы в хранилище clickhouse
 
-# ДАШБОРДЫ В ГРАФАНЕ С ПРИМЕРАМИ СТАТИСТИКИ ПРОИЗВОДСТВА ПО ГОДАМ VEGETABLES которые хочется
+# Дашборд из графаны
 ![image](https://github.com/user-attachments/assets/82f50fcc-6f90-4328-b7e7-10b72eb7ef6d)
 
 
