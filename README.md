@@ -1,6 +1,7 @@
 # ETL | DATA PIPELINE | AITRFLOW DATA PIPELINE
 # АРХИТЕКТУРА
 ТУТ БУДЕТ МОДЕЛЬ АРХИТЕКТУРЫ
+https://www.figma.com/board/7uqW3NB5lyg0jZQUafcNVm/Welcome-to-FigJam?node-id=3-986&t=UPYDFLLZixh6xBtI-4
 
 1)EXTRACT | DOWNLOAD ON LOCAL MACHINE FROM SOURCE (USDA CROPS) WITH AIRFLOW
 
