@@ -1,6 +1,7 @@
 # ETL | DATA PIPELINE | AITRFLOW DATA PIPELINE
 # АРХИТЕКТУРА
-![image](https://github.com/user-attachments/assets/83cef2ae-d577-4a50-8d3e-6f685a5dc78e)
+![image](https://github.com/user-attachments/assets/11ca15a8-74fb-4d87-9def-c71c4b60026e)
+
 
 
 1)EXTRACT | DOWNLOAD ON LOCAL MACHINE FROM SOURCE (USDA CROPS) WITH AIRFLOW
