@@ -21,7 +21,8 @@ Clickhouse читает данные из файла csv.
 К кликхаусу подключаются внешние bi инструменты.
 
 # Airflow
-![image](https://github.com/user-attachments/assets/c3f3dbe5-9ba5-4571-b68b-30bb18f6ac57)
+![image](https://github.com/user-attachments/assets/7a6c201a-f5bc-45ab-a3a5-1cda1bdf5df4)
+
 
 # Мб  структура таблиц из кликхауса
 
