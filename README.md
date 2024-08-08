@@ -1,6 +1,7 @@
 # ETL | DATA PIPELINE | AITRFLOW DATA PIPELINE
 # АРХИТЕКТУРА
-![image](https://github.com/user-attachments/assets/11ca15a8-74fb-4d87-9def-c71c4b60026e)
+![image](https://github.com/user-attachments/assets/fba4978f-55d8-45a8-b5bf-13640ee88c39)
+
 
 
 
