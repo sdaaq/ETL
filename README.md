@@ -27,6 +27,7 @@ Clickhouse считывает данные из файла csv в таблицу
 
 # Дашборд из графаны
 Развернутая локально графана, подключенная к clickhouse
-![image](https://github.com/user-attachments/assets/82f50fcc-6f90-4328-b7e7-10b72eb7ef6d)
+![image](https://github.com/user-attachments/assets/bcc484f2-9a31-4484-ae6e-871991d1f5f5)
+
 
 
