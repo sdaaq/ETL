@@ -57,7 +57,8 @@ Clickhouse считывает данные из файла csv в таблицу
 Развернутая локально графана, подключенная к clickhouse.
 
 Цифры вычисленные на основе сырых данных сходятся, с отчетами USDA, что может говорить о правильно проведенной обработкe.
-![image](https://github.com/user-attachments/assets/3cf782a6-15b1-4584-bc89-df264c9ba657)
+![image](https://github.com/user-attachments/assets/b6cedf83-ae39-4e6d-9e4d-051bff97dd1b)
+
 
 
 
