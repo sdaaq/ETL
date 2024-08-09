@@ -19,7 +19,7 @@ Clickhouse считывает данные из файла csv в таблицу
 
 К кликхаусу подключаются внешние bi инструменты.
 
-# Airflow
+# Структура DAGа в airflow
 ![image](https://github.com/user-attachments/assets/7a6c201a-f5bc-45ab-a3a5-1cda1bdf5df4)
 
 
