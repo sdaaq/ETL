@@ -16,7 +16,7 @@ with DAG(
 ) as dag:
 
     check_file = PythonSensor(
-        task_id='check_update_file_on_site',
+        task_id='check_update_file_on_the_site',
         timeout=10,
         mode="reschedule",
         python_callable=check,
